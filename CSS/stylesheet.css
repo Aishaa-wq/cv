@@ -1,0 +1,9 @@
+body {
+    background-color: gainsboro;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 10px;
+    width: 5%;
+}
